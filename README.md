@@ -12,7 +12,7 @@ This project implements a feature that allows employees to bulk insert purchase 
   - Tailwind CSS as a style library
   - react-toastify for a toast view
   - axios for REST APIs
-<br />
+
 - Back-end:
   - Express as a node.js language-based backend framework
   - SQLite as a file based database
