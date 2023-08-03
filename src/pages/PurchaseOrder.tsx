@@ -1,11 +1,13 @@
 import React, { useState } from "react";
+import MainLayout from "../layouts/MainLayout";
+import PurchaseOrderForm from "../components/PurchaseOrderForm";
 
 const PurchaseOrder = () => {
- 
+  
   return (
-    <div className="w-full max-w-xs mx-auto my-[100px]">
-      Purchase order
-    </div>
+    <MainLayout>
+      <PurchaseOrderForm />
+    </MainLayout>
   );
 };
 
