@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# uploads files
+uploads/
+
+# sqlite database file
+mydb.db
